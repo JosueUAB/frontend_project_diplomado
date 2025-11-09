@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Configurar la URL base para todas las peticiones
-axios.defaults.baseURL = 'http://localhost:3000';
+axios.defaults.baseURL = 'https://backend-project-diplomado.onrender.com/';
 
 // Configurar headers por defecto
 axios.defaults.headers.common['Content-Type'] = 'application/json';
