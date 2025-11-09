@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.container { max-width: 800px; margin: 0 auto; }
+.task { display:flex; justify-content:space-between; padding:8px; border-bottom:1px solid #ddd }
+.actions button { margin-left:8px }
+.create-form { display:flex; gap:8px; margin-bottom:16px }
+.create-form input { padding:8px; flex:1 }
